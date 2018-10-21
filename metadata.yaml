@@ -1,5 +1,5 @@
 _repo: Sir-Walter-Raleigh-and-His-Time_3143
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -29,5 +29,6 @@ subjects:
 - !lcc 'PR'
 - !lcsh 'Great Britain -- History'
 - !lcsh 'Raleigh, Walter, Sir, 1552?-1618'
+- GITenberg
 title: Sir Walter Raleigh and His Time
 url: http://www.gutenberg.org/ebooks/3143
